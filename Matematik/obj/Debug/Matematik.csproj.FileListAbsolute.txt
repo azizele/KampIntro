@@ -1,0 +1,8 @@
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Matematik\bin\Debug\Matematik.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Matematik\bin\Debug\Matematik.pdb
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Matematik\obj\Debug\Matematik.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Matematik\obj\Debug\Matematik.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Matematik\obj\Debug\Matematik.pdb
