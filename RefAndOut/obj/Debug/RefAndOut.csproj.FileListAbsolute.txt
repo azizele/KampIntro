@@ -1,0 +1,8 @@
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\RefAndOut\bin\Debug\RefAndOut.exe.config
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\RefAndOut\bin\Debug\RefAndOut.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\RefAndOut\bin\Debug\RefAndOut.pdb
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\RefAndOut\obj\Debug\RefAndOut.csproj.AssemblyReference.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\RefAndOut\obj\Debug\RefAndOut.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\RefAndOut\obj\Debug\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\RefAndOut\obj\Debug\RefAndOut.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\RefAndOut\obj\Debug\RefAndOut.pdb

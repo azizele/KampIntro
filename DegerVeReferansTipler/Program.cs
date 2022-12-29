@@ -11,6 +11,8 @@ namespace DegerVeReferansTipler
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Worl!!!");
+            string adinNe = "Abdulaziz";
+
 
             int sayi1 = 10;
             int sayi2 = 30;
@@ -37,6 +39,10 @@ namespace DegerVeReferansTipler
             // heap bölgesinde bir 101 numaları bölgede tutulur gibi düşünebiliriz. new anlamıda burda heap bölgesinde
             //bir alan oluştur demek diyoruz referans yapıyordurdurudrurduruduruduruduru.28.12.2022 
             //referans değiştirdiğimizde Garbage collectör çöp toplayıcı boşta kalanı heap bölgesinde çöpe atar.
+
+
+
+
 
         }
     }
