@@ -1,0 +1,8 @@
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb

@@ -1,0 +1,8 @@
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\ValueAndRefencesType\bin\Debug\ValueAndRefencesType.exe.config
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\ValueAndRefencesType\bin\Debug\ValueAndRefencesType.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\ValueAndRefencesType\bin\Debug\ValueAndRefencesType.pdb
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\ValueAndRefencesType\obj\Debug\ValueAndRefencesType.csproj.AssemblyReference.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\ValueAndRefencesType\obj\Debug\ValueAndRefencesType.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\ValueAndRefencesType\obj\Debug\ValueAndRefencesType.csproj.CoreCompileInputs.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\ValueAndRefencesType\obj\Debug\ValueAndRefencesType.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\ValueAndRefencesType\obj\Debug\ValueAndRefencesType.pdb

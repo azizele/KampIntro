@@ -1,0 +1,3 @@
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\GenericIntro\obj\Debug\GenericIntro.csproj.AssemblyReference.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\GenericIntro\obj\Debug\GenericIntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\GenericIntro\obj\Debug\GenericIntro.csproj.CoreCompileInputs.cache

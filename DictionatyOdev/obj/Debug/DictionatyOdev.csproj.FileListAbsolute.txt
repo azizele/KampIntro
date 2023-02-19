@@ -1,0 +1,8 @@
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DictionatyOdev\bin\Debug\DictionatyOdev.exe.config
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DictionatyOdev\bin\Debug\DictionatyOdev.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DictionatyOdev\bin\Debug\DictionatyOdev.pdb
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DictionatyOdev\obj\Debug\DictionatyOdev.csproj.AssemblyReference.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DictionatyOdev\obj\Debug\DictionatyOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DictionatyOdev\obj\Debug\DictionatyOdev.csproj.CoreCompileInputs.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DictionatyOdev\obj\Debug\DictionatyOdev.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DictionatyOdev\obj\Debug\DictionatyOdev.pdb

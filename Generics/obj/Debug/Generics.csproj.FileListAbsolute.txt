@@ -1,0 +1,8 @@
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Generics\bin\Debug\Generics.exe.config
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Generics\bin\Debug\Generics.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Generics\bin\Debug\Generics.pdb
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Generics\obj\Debug\Generics.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\Generics\obj\Debug\Generics.pdb
