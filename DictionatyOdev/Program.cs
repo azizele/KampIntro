@@ -12,7 +12,7 @@ namespace DictionaryOdev
         {
             MyDictionary<string> myDictionary= new MyDictionary<string>();
             myDictionary.Add("Aziz");
-            myDictionary.Add("Kadir");
+            myDictionary.Add("Hemrin");
             myDictionary.Add("Muhammed Can");
             myDictionary.Add("Lina");
 
@@ -21,5 +21,6 @@ namespace DictionaryOdev
             Console.ReadKey();
 
         }
+        
     }
 }

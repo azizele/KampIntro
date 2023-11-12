@@ -1,0 +1,7 @@
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.exe.config
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.pdb
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.csproj.AssemblyReference.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.exe
+C:\Users\PAPER\Desktop\Projelerim\KampIntro\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.pdb

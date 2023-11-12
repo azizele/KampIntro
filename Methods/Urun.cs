@@ -15,5 +15,7 @@ namespace Methods
 
         public int StokAdedi { get; set; }
 
+        public string Kategori { get; set; }             
+
     }
 }

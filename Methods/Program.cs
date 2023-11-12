@@ -20,8 +20,17 @@ namespace Methods
             urun2.Adi = "Kiraz";
             urun2.Acıklama="Nefis Kiraz";
 
+            Urun urun3 = new Urun();
+            urun3.Adi = "Karpuz";
+            urun3.Acıklama = "Diyarbakır Karpuzu";
+            urun3.StokAdedi = 10000;
 
-            Console.WriteLine("Merhaba Abdulaziz Nerde Bu CSharp projelerin");
+
+
+
+
+
+            Console.WriteLine("Merhaba Abdulaziz Nerde Bu projelerin");
             Console.WriteLine("Hello World!");
             Console.WriteLine("----------Metotlar-----------");
             //instance - örnek 
